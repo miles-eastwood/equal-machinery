@@ -1124,3 +1124,40 @@ raceId,year,round,circuitId,name,date,time,url,fp1_date,fp1_time,fp2_date,fp2_ti
 1142,2024,22,80,"Las Vegas Grand Prix","2024-11-23","06:00:00","https://en.wikipedia.org/wiki/2024_Las_Vegas_Grand_Prix","2024-11-21","02:30:00","2024-11-21","06:00:00","2024-11-22","02:30:00","2024-11-22","06:00:00",\N,\N
 1143,2024,23,78,"Qatar Grand Prix","2024-12-01","17:00:00","https://en.wikipedia.org/wiki/2024_Qatar_Grand_Prix","2024-11-29","13:30:00","2024-11-29","17:30:00",\N,\N,"2024-11-30","17:00:00","2024-11-30","13:00:00"
 1144,2024,24,24,"Abu Dhabi Grand Prix","2024-12-08","13:00:00","https://en.wikipedia.org/wiki/2024_Abu_Dhabi_Grand_Prix","2024-12-06","09:30:00","2024-12-06","13:00:00","2024-12-07","10:30:00","2024-12-07","14:00:00",\N,\N
+1145,2025,1,\N,Australian Grand Prix,2025-03-16,04:00:00Z,https://en.wikipedia.org/wiki/2025_Australian_Grand_Prix,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+1146,2025,2,\N,Chinese Grand Prix,2025-03-23,07:00:00Z,https://en.wikipedia.org/wiki/2025_Chinese_Grand_Prix,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+1147,2025,3,\N,Japanese Grand Prix,2025-04-06,05:00:00Z,https://en.wikipedia.org/wiki/2025_Japanese_Grand_Prix,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+1148,2025,4,\N,Bahrain Grand Prix,2025-04-13,15:00:00Z,https://en.wikipedia.org/wiki/2025_Bahrain_Grand_Prix,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+1149,2025,5,\N,Saudi Arabian Grand Prix,2025-04-20,17:00:00Z,https://en.wikipedia.org/wiki/2025_Saudi_Arabian_Grand_Prix,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+1150,2025,6,\N,Miami Grand Prix,2025-05-04,20:00:00Z,https://en.wikipedia.org/wiki/2025_Miami_Grand_Prix,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+1151,2025,7,\N,Emilia Romagna Grand Prix,2025-05-18,13:00:00Z,https://en.wikipedia.org/wiki/2025_Emilia_Romagna_Grand_Prix,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+1152,2025,8,6,Monaco Grand Prix,2025-05-25,13:00:00Z,https://en.wikipedia.org/wiki/2025_Monaco_Grand_Prix,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+1153,2025,9,4,Spanish Grand Prix,2025-06-01,13:00:00Z,https://en.wikipedia.org/wiki/2025_Spanish_Grand_Prix,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+1154,2025,10,7,Canadian Grand Prix,2025-06-15,18:00:00Z,https://en.wikipedia.org/wiki/2025_Canadian_Grand_Prix,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+1155,2025,11,70,Austrian Grand Prix,2025-06-29,13:00:00Z,https://en.wikipedia.org/wiki/2025_Austrian_Grand_Prix,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+1156,2025,12,9,British Grand Prix,2025-07-06,14:00:00Z,https://en.wikipedia.org/wiki/2025_British_Grand_Prix,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+1157,2025,13,13,Belgian Grand Prix,2025-07-27,13:00:00Z,https://en.wikipedia.org/wiki/2025_Belgian_Grand_Prix,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+1158,2025,14,11,Hungarian Grand Prix,2025-08-03,13:00:00Z,https://en.wikipedia.org/wiki/2025_Hungarian_Grand_Prix,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+1159,2025,15,39,Dutch Grand Prix,2025-08-31,13:00:00Z,https://en.wikipedia.org/wiki/2025_Dutch_Grand_Prix,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+1160,2025,16,14,Italian Grand Prix,2025-09-07,13:00:00Z,https://en.wikipedia.org/wiki/2025_Italian_Grand_Prix,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+1161,2025,17,73,Azerbaijan Grand Prix,2025-09-21,11:00:00Z,https://en.wikipedia.org/wiki/2025_Azerbaijan_Grand_Prix,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+1162,2025,18,15,Singapore Grand Prix,2025-10-05,12:00:00Z,https://en.wikipedia.org/wiki/2025_Singapore_Grand_Prix,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+1163,2025,19,69,United States Grand Prix,2025-10-19,19:00:00Z,https://en.wikipedia.org/wiki/2025_United_States_Grand_Prix,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+1164,2025,20,32,Mexico City Grand Prix,2025-10-26,20:00:00Z,https://en.wikipedia.org/wiki/2025_Mexico_City_Grand_Prix,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+1165,2025,21,18,São Paulo Grand Prix,2025-11-09,17:00:00Z,https://en.wikipedia.org/wiki/2025_S%C3%A3o_Paulo_Grand_Prix,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+1166,2025,22,80,Las Vegas Grand Prix,2025-11-23,04:00:00Z,https://en.wikipedia.org/wiki/2025_Las_Vegas_Grand_Prix,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+1167,2025,23,78,Qatar Grand Prix,2025-11-30,16:00:00Z,https://en.wikipedia.org/wiki/2025_Qatar_Grand_Prix,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+1168,2025,24,24,Abu Dhabi Grand Prix,2025-12-07,13:00:00Z,https://en.wikipedia.org/wiki/2025_Abu_Dhabi_Grand_Prix,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+1169,2026,1,1,Australian Grand Prix,2026-03-08,04:00:00Z,https://en.wikipedia.org/wiki/2026_Australian_Grand_Prix,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+1170,2026,2,17,Chinese Grand Prix,2026-03-15,07:00:00Z,https://en.wikipedia.org/wiki/2026_Chinese_Grand_Prix,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+1171,2026,3,22,Japanese Grand Prix,2026-03-29,05:00:00Z,https://en.wikipedia.org/wiki/2026_Japanese_Grand_Prix,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+1172,2026,4,79,Miami Grand Prix,2026-05-03,20:00:00Z,https://en.wikipedia.org/wiki/2026_Miami_Grand_Prix,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+1173,2026,5,7,Canadian Grand Prix,2026-05-24,20:00:00Z,https://en.wikipedia.org/wiki/2026_Canadian_Grand_Prix,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+1174,2026,6,6,Monaco Grand Prix,2026-06-07,13:00:00Z,https://en.wikipedia.org/wiki/2026_Monaco_Grand_Prix,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+1175,2026,7,4,Barcelona Grand Prix,2026-06-14,13:00:00Z,https://en.wikipedia.org/wiki/2026_Barcelona-Catalunya,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+1176,2026,8,70,Austrian Grand Prix,2026-06-28,13:00:00Z,https://en.wikipedia.org/wiki/2026_Austrian_Grand_Prix,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+1177,2026,9,9,British Grand Prix,2026-07-05,14:00:00Z,https://en.wikipedia.org/wiki/2026_British_Grand_Prix,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+1178,2026,10,13,Belgian Grand Prix,2026-07-19,13:00:00Z,https://en.wikipedia.org/wiki/2026_Belgian_Grand_Prix,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+1179,2026,11,11,Hungarian Grand Prix,2026-07-26,13:00:00Z,https://en.wikipedia.org/wiki/2026_Hungarian_Grand_Prix,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+1180,2026,12,39,Dutch Grand Prix,2026-08-23,13:00:00Z,https://en.wikipedia.org/wiki/2026_Dutch_Grand_Prix,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N
+1181,2026,13,14,Italian Grand Prix,2026-09-06,13:00:00Z,https://en.wikipedia.org/wiki/2026_Italian_Grand_Prix,\N,\N,\N,\N,\N,\N,\N,\N,\N,\N

@@ -381,31 +381,43 @@ def process_new_json(
 
 driver_by_id, driver_by_ref = load_drivers("data/drivers.csv")
 ctor_by_id, ctor_by_ref = load_ctors("data/constructors.csv")
-result_by_id = load_results("data/new_results.csv")
-race_by_id = load_races("data/new_races.csv")
+result_by_id = load_results("data/results.csv")
+race_by_id = load_races("data/races.csv")
 process_results(race_by_id, result_by_id, driver_by_id)
 
 driver_pair_by_id = populate_driver_pairings(
     race_by_id, result_by_id, driver_by_id, ctor_by_id
 )
 
+# Cap the graph at the latest year present in the data, so newly fetched
+# seasons (see util/fetch_results.py) show up without needing a code change.
+MAX_YEAR = max(race.date.year for race in race_by_id.values())
 
 with open("dump.json", "w") as f:
     f.write(
         json.dumps(
-            to_cytoscape_data(driver_by_id, ctor_by_id, driver_pair_by_id, 0, 2025)
+            to_cytoscape_data(driver_by_id, ctor_by_id, driver_pair_by_id, 0, MAX_YEAR)
         )
     )
 
 with open("../frontend/src/data/ctorMap.json", "w") as f:
     f.write(json.dumps(create_ctor_map(ctor_by_id)))
 
+# The frontend's static demo view reads this file directly (see
+# DriverGraph.tsx), so keep it in sync with the freshly generated graph.
+with open("../frontend/public/data/graph.json", "w") as f:
+    f.write(
+        json.dumps(
+            to_cytoscape_data(driver_by_id, ctor_by_id, driver_pair_by_id, 0, MAX_YEAR)
+        )
+    )
+
 app = FastAPI()
 
 
 @app.get("/graph")
 def get_graph():
-    return to_cytoscape_data(driver_by_id, ctor_by_id, driver_pair_by_id, 0, 2025)
+    return to_cytoscape_data(driver_by_id, ctor_by_id, driver_pair_by_id, 0, MAX_YEAR)
 
 
 # process_new_json(

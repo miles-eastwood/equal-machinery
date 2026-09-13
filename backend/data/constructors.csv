@@ -211,3 +211,5 @@ constructorId,constructorRef,name,nationality,url,colorPrimary,colorSecondary
 213,"alphatauri","AlphaTauri","Italian","http://en.wikipedia.org/wiki/Scuderia_AlphaTauri",#00293F
 214,"alpine","Alpine F1 Team","French","http://en.wikipedia.org/wiki/Alpine_F1_Team",#00A1E8
 215,"rb","RB F1 Team","Italian","http://en.wikipedia.org/wiki/RB_Formula_One_Team",#6C98FF
+216,audi,Audi,German,https://en.wikipedia.org/wiki/Audi_in_Formula_One,#C8CED4,#F50537
+217,cadillac,Cadillac F1 Team,American,https://en.wikipedia.org/wiki/Cadillac_in_Formula_One,#FFFFFF,#000000

@@ -2,8 +2,7 @@
  * Cross-platform deploy script.
  *
  * Publishes the production build to GitHub Pages via gh-pages, but only when
- * the current git branch is `main`. Replaces the previous bash-only npm
- * script so it works on Windows (PowerShell/cmd) as well as macOS/Linux.
+ * the current git branch is `main`. 
  */
 const { execSync } = require("child_process");
 

@@ -200,7 +200,6 @@ export default function DriverGraph() {
   }, [elements]);
 
   // handle driver selection
-  // TODO: Bug where if a driver is selected but then the year range changes, they are still selected
   useEffect(() => {
     const cy = cyRef.current;
     if (!cy) return;
