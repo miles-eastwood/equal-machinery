@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/equal-machinery/static/css/main.eceec866.css",
-    "main.js": "/equal-machinery/static/js/main.53263969.js",
+    "main.js": "/equal-machinery/static/js/main.4e659de8.js",
     "static/js/453.a29f8228.chunk.js": "/equal-machinery/static/js/453.a29f8228.chunk.js",
     "index.html": "/equal-machinery/index.html",
     "main.eceec866.css.map": "/equal-machinery/static/css/main.eceec866.css.map",
-    "main.53263969.js.map": "/equal-machinery/static/js/main.53263969.js.map",
+    "main.4e659de8.js.map": "/equal-machinery/static/js/main.4e659de8.js.map",
     "453.a29f8228.chunk.js.map": "/equal-machinery/static/js/453.a29f8228.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eceec866.css",
-    "static/js/main.53263969.js"
+    "static/js/main.4e659de8.js"
   ]
 }
