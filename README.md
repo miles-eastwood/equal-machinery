@@ -13,4 +13,3 @@ The project explores how F1 drivers are connected through their teams across sea
 
 **Backend**
 - [Python](https://www.python.org/) + [FastAPI](https://fastapi.tiangolo.com/)
-

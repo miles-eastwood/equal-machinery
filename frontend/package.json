@@ -26,7 +26,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "branch=$(git rev-parse --abbrev-ref HEAD); if [ \"$branch\" = \"main\" ]; then gh-pages -d build -r git@github.com:ME97/equal-machinery.git; else echo '🚫 Deploys are only allowed from main branch (you are on '$branch')'; exit 1; fi"
+    "deploy": "node scripts/deploy.js"
   },
   "eslintConfig": {
     "extends": [

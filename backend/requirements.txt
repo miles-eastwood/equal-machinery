@@ -1,0 +1,15 @@
+# Backend dependencies for equal-machinery
+# Install into a virtual environment:
+#   python -m venv venv
+#   venv\Scripts\activate
+#   pip install -r requirements.txt
+
+# Web framework + ASGI server
+fastapi>=0.110
+uvicorn[standard]>=0.29
+
+# Data models (code uses Pydantic v2 API: ConfigDict, field_validator, ValidationInfo)
+pydantic>=2.6
+
+# HTTP client used by util/request.py to fetch F1 data
+requests>=2.31
